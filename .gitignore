@@ -4,3 +4,4 @@
 /original_video.mp4
 # ignore all .mp4 files
 *.mp4
+*.jpg
